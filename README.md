@@ -1,4 +1,10 @@
 # twitterbot
+download files
+
+open terminal and cd to directory
+
+npm install npm@latest -g
+
 
 install twitter inside directory
 
