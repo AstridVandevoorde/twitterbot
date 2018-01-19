@@ -1,0 +1,26 @@
+{
+  "name": "markov_ai",
+  "version": "1.0.0",
+  "description": "Markov tweets",
+  "main": "config.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "markov": "^0.0.7",
+    "markov-strings": "^1.3.5",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AstridVandevoorde/twitterbot.git"
+  },
+  "author": "Astrid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AstridVandevoorde/twitterbot/issues"
+  },
+  "homepage": "https://github.com/AstridVandevoorde/twitterbot#readme"
+}
